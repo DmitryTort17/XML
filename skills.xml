@@ -1,0 +1,13 @@
+<some_skills>
+    <skill1>"Basic theory"</skill1>
+    <skill2>"client-server architecture"</skill2>
+    <skill3>"HTTP Methods of requests to the server"</skill3>
+    <skill4>"API testing"</skill4>
+    <skill5>"Removing and reading logs"</skill5>
+    <skill6>"Sniffing http web traffic"</skill6>
+    <skill7>"Mobile testing"</skill7>
+    <skill8>"Access to remote servers."</skill8>
+    <skill9>"SQL basics"</skill9>
+    <skill10>"Load testing in Jmeter"</skill10>
+    <skill11>"Python. (Learning the basics. Creating a client-server application)</skill11>
+</some_skills>
